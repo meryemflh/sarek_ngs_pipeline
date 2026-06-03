@@ -1,1 +1,1 @@
-# sarek_ngs_pipeline
+# sarek_nextflow_ngs_pipeline
