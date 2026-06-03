@@ -200,5 +200,5 @@ See also: [ngs-benchmarking](https://github.com/meryemflh/ngs_benchmarking) — 
 
 **Meryem Fellah** — Bioinformatics Engineer  
 École Supérieure Mohammed IV d'Ingénieurs en Sciences de la Santé  
-Internship: Sequentia Biotech, Barcelona — March–July 2025  
+Internship: Sequentia Biotech, Barcelona 
 Supervisor: Dr. Matteo Schiavinato
