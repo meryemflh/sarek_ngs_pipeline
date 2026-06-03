@@ -2,7 +2,6 @@
 
 **End-to-end germline variant calling using nf-core/Sarek**  
 Automated benchmark runs for: BWA-MEM + DeepVariant and BWA-MEM + Strelka2  
-Thesis: *Benchmarking of Read Mapping and Variant Calling Tools* | Sequentia Biotech, Barcelona (2025)
 
 ---
 
