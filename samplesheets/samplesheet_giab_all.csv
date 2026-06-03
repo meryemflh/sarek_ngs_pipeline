@@ -1,0 +1,8 @@
+patient,sample,lane,fastq_1,fastq_2,sex,status
+HG001,HG001,1,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG001_R1_trimmed.fastq.gz,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG001_R2_trimmed.fastq.gz,XX,0
+HG002,HG002,1,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG002_R1_trimmed.fastq.gz,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG002_R2_trimmed.fastq.gz,XY,0
+HG003,HG003,1,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG003_R1_trimmed.fastq.gz,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG003_R2_trimmed.fastq.gz,XY,0
+HG004,HG004,1,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG004_R1_trimmed.fastq.gz,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG004_R2_trimmed.fastq.gz,XX,0
+HG005,HG005,1,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG005_R1_trimmed.fastq.gz,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG005_R2_trimmed.fastq.gz,XY,0
+HG006,HG006,1,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG006_R1_trimmed.fastq.gz,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG006_R2_trimmed.fastq.gz,XX,0
+HG007,HG007,1,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG007_R1_trimmed.fastq.gz,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG007_R2_trimmed.fastq.gz,XY,0

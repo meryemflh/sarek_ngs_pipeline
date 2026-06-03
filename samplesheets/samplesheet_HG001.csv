@@ -1,0 +1,2 @@
+patient,sample,lane,fastq_1,fastq_2,sex,status
+HG001,HG001,1,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG001_R1_trimmed.fastq.gz,/media/sequentia/sdb1/visitor3/process/preprocessing/trimmed_reads/HG001_R2_trimmed.fastq.gz,XX,0
